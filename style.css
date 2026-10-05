@@ -1,0 +1,24 @@
+body {
+  font-family: "times new roman", serif;  
+  max-width: 700px;
+  margin: 2px;
+  padding: 30px;
+}
+img {
+  display: block;
+  margin:20px;
+  border-radius: 50%;
+}
+p {
+  line-height: 1.5;     
+}
+.skills-list {
+  color: green;
+  font-weight: bold;
+  line-height: 2;
+}
+h1 {
+  color:blue;      
+  font-size: 40px;    
+  text-align: center;  
+}
